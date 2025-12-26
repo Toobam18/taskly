@@ -32,16 +32,15 @@ Taskly is a lightweight task manager web app built with PHP, MySQL, HTML/CSS, an
 
 
 This video demonstrates:
-- User registration and login
+- User registration and login valid such as 
+  - Please enter valid domain either gmail.com, hotmail.com or yahoo.com
+  - Passwords do not match
+  - An email already exists with that account.
+  - Password visibility options.
 - Creating and managing tasks
 - Switching between Cards, Table, and Calendar views
 - Dynamic calendar navigation using AJAX
 - Marking tasks as complete and deleting tasks
-
-      - Please enter valid domain either gmail.com, hotmail.com or yahoo.com
-      - Passwords do not match
-      - An email already exists with that account.
-      - Password visibility options.
 
 🧰 Tech Stack:
 
