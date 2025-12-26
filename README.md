@@ -174,10 +174,7 @@ Future Improvements:
 
 👥 Team
 
-Taskly was developed as a collaborative project by:
-- Adiyat Jubair
-- Hassan Rayan
-- Tooba Malik
+Taskly was developed as a collaborative project with Hassan Rayan and Adiyat Jubair.
 
 📁 Project Structure
 
