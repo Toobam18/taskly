@@ -1,6 +1,6 @@
 Taskly To-Do Manager 
 
-Taskly is a lightweight task manager web app built with PHP, MySQL, HTML/CSS, and JavaScript. It includes secure authentication, a task dashboard with CRUD actions, filtering, and multiple ways to view tasks (Cards / Table / Calendar).
+Taskly is a lightweight task manager web app built with PHP, MySQL, HTML/CSS, and JavaScript . It includes secure authentication, a task dashboard with CRUD actions, filtering, and multiple ways to view tasks (Cards / Table / Calendar).
 
 ✨ Features:
 
@@ -171,6 +171,13 @@ Future Improvements:
 - Mobile optimization
 - Theme customization (light/dark mode)
 - Calendar integration (Google / Apple)
+
+👥 Team
+
+Taskly was developed as a collaborative project by:
+- Adiyat Jubair
+- Hassan Rayan
+- Tooba Malik
 
 📁 Project Structure
 
